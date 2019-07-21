@@ -1,0 +1,32 @@
+.privacy-settings{
+    margin-top: 20px;
+}
+
+.lock-icon>img{
+    height: 100px;
+}
+.flexbox{
+    display: flex;
+}
+
+.center{
+    align-items: center;
+    justify-content: center;
+}
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+.nav-bar{
+    display: block;
+}
+.deactive{
+    display: none;
+}
+
+.heading{
+    cursor: pointer;
+}
